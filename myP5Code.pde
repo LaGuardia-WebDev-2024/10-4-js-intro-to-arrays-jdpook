@@ -7,7 +7,14 @@ setup = function() {
     fill(random(255), random(255), random(255))
     text("🍽", i, 370)
   }
+  var fruit="Apple";
+var fruits= ["Apple","Orange","Grapes"];
+fill(255,0,0);
+text (fruits[0],10,30);
+text (fruits[1],10,30);
+text (fruits[2],10,30);
 
+var num
 
 };
 

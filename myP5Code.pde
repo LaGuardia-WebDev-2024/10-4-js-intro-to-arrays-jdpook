@@ -11,10 +11,11 @@ setup = function() {
 var fruits= ["Apple","Orange","Grapes"];
 fill(255,0,0);
 text (fruits[0],10,30);
-text (fruits[1],10,30);
-text (fruits[2],10,30);
+text (fruits[1],10,60);
+text (fruits[2],10,90);
 
-var num
+var numfruits=4;
+text("MY FAVORITE FRUIT",30,200);
 
 };
 
